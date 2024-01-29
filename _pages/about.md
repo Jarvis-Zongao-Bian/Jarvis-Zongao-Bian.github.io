@@ -1,12 +1,20 @@
----
+<!-- ---
 permalink: /
 title: "Resume"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
+  - /about/
+  - /about.html
+--- -->
+
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
   - /resume
-  # - /about/
-  # - /about.html
 ---
 
 {% include base_path %}
