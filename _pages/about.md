@@ -20,7 +20,13 @@ Education
 
 Work experience
 ======
-* June 2023 - Current: Functionality Quality Assurance Tester at Keywords Studios
+* Apr 2024 - Current: Software Developer at Goldwater, Dubé
+  * Led the research to build internal legal assistant for associate and senior partner, based on GPT-2 and GPT-4 API.
+  * Established the QA team for Test-driven development and mentored the intern to build the software team step by step.
+  * Developed the CRM for Saas service, by using Laravel, Vue.js, and JSON API, specifically involving with Laravel JSON API, Nova, and Laravel Application development.
+  * Developed the iOS Application plan for further expansion. 
+
+* June 2023 - Apr 2024: Software Developer in Testing (FQA Tester) at Keywords Studios
   * Led user-case specific testing projects, effectively identifying and documenting bugs, and proposing actionable solutions for efficient bug resolution.
   * Specialized in VR Game and PC Game project, running real-time testing and headless testing 
   * Utilized a variety of tools, including Microsoft Software Set, SharePoint development, TestRail, and Jira, to streamline daily operations and enhance productivity.
