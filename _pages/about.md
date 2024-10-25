@@ -42,20 +42,18 @@ Work experience
   * Implemented the model using PyTorch and designed it based on Graph Neural Networks (GNN).
   * Conducted comparative analysis with popular clustering algorithms (K-means, DBSCAN, and GMM), demonstrating superior performance of the pre-trained model.
 
+Skills
+======
+* Programming Languages: Python, C#, PHP, Swift, Java
+* Framework: Django, Laravel, .NET, Unity 3D
+* DevOps & Containerization: Docker, Kubernetes, Git, CI/CD
+* Machine Learning: PyTorch, Tensorflow, GPT-4
+
 Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 <!-- Publications
 ======
