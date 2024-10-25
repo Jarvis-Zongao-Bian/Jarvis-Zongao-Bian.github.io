@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Resume"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ Education
 ======
 * B.Eng. in Safety Engineering, Capital University of Economics and Business, 2012
 * M.S. in Environmental Management, National University of Singapore, 2020
-* G.Dip. in Computer Science, Concordia Universiyt, 2021
+* G.Dip. in Computer Science, Concordia University, 2021
 * M.S. in Computer Science, Georgia Institute of Technology, 2023
 
 Work experience
